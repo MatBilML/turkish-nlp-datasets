@@ -1,0 +1,483 @@
+Isim,Boy (cm),Omru (Yillik),Yetistigi yore,Rakim,Cicek Rengi,Yem degeri
+Karagan,132,Cok,Akdeniz,500-1000,Eflatun,Var
+Karagan,170,Cok,Akdeniz,500-1000,Eflatun,Var
+Karagan,173,Cok,Akdeniz,500-1000,Eflatun,Var
+Karagan,105,Cok,Akdeniz,500-1000,Eflatun,Var
+Karagan,88,Cok,Akdeniz,500-1000,Eflatun,Var
+Inek Otu,30,Tek,Akdeniz,1500-2000,Beyaz,Yok
+Inek Otu,32,Tek,Akdeniz,1500-2000,Beyaz,Yok
+Inek Otu,27,Tek,Akdeniz,1500-2000,Beyaz,Yok
+Inek Otu,31,Tek,Akdeniz,1500-2000,Beyaz,Yok
+Inek Otu,27,Tek,Akdeniz,1500-2000,Beyaz,Yok
+Hanimeli Otu,210,Cok,Akdeniz,1500-2000,Sari,Var
+Hanimeli Otu,212,Cok,Akdeniz,1500-2000,Sari,Var
+Hanimeli Otu,225,Cok,Akdeniz,1500-2000,Sari,Var
+Hanimeli Otu,125,Cok,Akdeniz,1500-2000,Sari,Var
+Hanimeli Otu,79,Cok,Akdeniz,1500-2000,Sari,Var
+Cuvan,45,Cok,Ic Anadolu,500-1000,Ciceksiz,Var
+Cuvan,50,Cok,Ic Anadolu,500-1000,Ciceksiz,Var
+Cuvan,50,Cok,Ic Anadolu,500-1000,Ciceksiz,Var
+Cuvan,32,Cok,Ic Anadolu,500-1000,Ciceksiz,Var
+Cuvan,33,Cok,Ic Anadolu,500-1000,Ciceksiz,Var
+Dag Kopekdili,35,Cok,Akdeniz,2000-2500,Mor,Yok
+Dag Kopekdili,35,Cok,Akdeniz,2000-2500,Mor,Yok
+Dag Kopekdili,36,Cok,Akdeniz,2000-2500,Mor,Yok
+Dag Kopekdili,27,Cok,Akdeniz,2000-2500,Mor,Yok
+Dag Kopekdili,15,Cok,Akdeniz,2000-2500,Mor,Yok
+Kardelen,15,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kardelen,17,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kardelen,17,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kardelen,15,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kardelen,13,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kanarya otu,77,Cok,Dogu Anadolu,1500-2000,Sari,Yok
+Kanarya otu,80,Cok,Dogu Anadolu,1500-2000,Sari,Yok
+Kanarya otu,79,Cok,Dogu Anadolu,1500-2000,Sari,Yok
+Kanarya otu,21,Cok,Dogu Anadolu,1500-2000,Sari,Yok
+Kanarya otu,22,Cok,Dogu Anadolu,1500-2000,Sari,Yok
+Emzik Otu,35,Cok,Dogu Anadolu,2000-2500,Kirmizi,Yok
+Emzik Otu,35,Cok,Dogu Anadolu,2000-2500,Kirmizi,Yok
+Emzik Otu,36,Cok,Dogu Anadolu,2000-2500,Kirmizi,Yok
+Emzik Otu,15,Cok,Dogu Anadolu,2000-2500,Kirmizi,Yok
+Emzik Otu,14,Cok,Dogu Anadolu,2000-2500,Kirmizi,Yok
+Yumakli Ot,8,Tek,Akdeniz,1000-1500,Ciceksiz,Yok
+Yumakli Ot,8,Tek,Akdeniz,1000-1500,Ciceksiz,Yok
+Yumakli Ot,7,Tek,Akdeniz,1000-1500,Ciceksiz,Yok
+Yumakli Ot,8,Tek,Akdeniz,1000-1500,Ciceksiz,Yok
+Yumakli Ot,5,Tek,Akdeniz,1000-1500,Ciceksiz,Yok
+Coban Dosegi,68,Cok,Dogu Anadolu,1500-2000,Eflatun,Yok
+Coban Dosegi,67,Cok,Dogu Anadolu,1500-2000,Eflatun,Yok
+Coban Dosegi,68,Cok,Dogu Anadolu,1500-2000,Eflatun,Yok
+Coban Dosegi,62,Cok,Dogu Anadolu,1500-2000,Eflatun,Yok
+Coban Dosegi,60,Cok,Dogu Anadolu,1500-2000,Eflatun,Yok
+Alli Gelin,42,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Alli Gelin,40,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Alli Gelin,41,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Alli Gelin,17,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Alli Gelin,22,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Anzer Cayi,12,Cok,Karadeniz,2000-2500,Mor,Yok
+Anzer Cayi,13,Cok,Karadeniz,2000-2500,Mor,Yok
+Anzer Cayi,11,Cok,Karadeniz,2000-2500,Mor,Yok
+Anzer Cayi,7,Cok,Karadeniz,2000-2500,Mor,Yok
+Anzer Cayi,7,Cok,Karadeniz,2000-2500,Mor,Yok
+Kecisakali,122,Cok,Ic Anadolu,1000-1500,Sari,Var
+Kecisakali,122,Cok,Ic Anadolu,1000-1500,Sari,Var
+Kecisakali,123,Cok,Ic Anadolu,1000-1500,Sari,Var
+Kecisakali,101,Cok,Ic Anadolu,1000-1500,Sari,Var
+Kecisakali,100,Cok,Ic Anadolu,1000-1500,Sari,Var
+Uyuz Otu,86,Cok,Dogu Anadolu,1000-1500,Pembe,Yok
+Uyuz Otu,87,Cok,Dogu Anadolu,1000-1500,Pembe,Yok
+Uyuz Otu,87,Cok,Dogu Anadolu,1000-1500,Pembe,Yok
+Uyuz Otu,25,Cok,Dogu Anadolu,1000-1500,Pembe,Yok
+Uyuz Otu,25,Cok,Dogu Anadolu,1000-1500,Pembe,Yok
+Coven,45,Tek,Dogu Anadolu,2000-2500,Beyaz,Var
+Coven,45,Tek,Dogu Anadolu,2000-2500,Beyaz,Var
+Coven,52,Tek,Dogu Anadolu,2000-2500,Beyaz,Var
+Coven,12,Tek,Dogu Anadolu,2000-2500,Beyaz,Var
+Coven,12,Tek,Dogu Anadolu,2000-2500,Beyaz,Var
+Erkek Egrelti Otu,103,Cok,Akdeniz,500-1000,Ciceksiz,Yok
+Erkek Egrelti Otu,97,Cok,Akdeniz,500-1000,Ciceksiz,Yok
+Erkek Egrelti Otu,98,Cok,Akdeniz,500-1000,Ciceksiz,Yok
+Erkek Egrelti Otu,33,Cok,Akdeniz,500-1000,Ciceksiz,Yok
+Erkek Egrelti Otu,32,Cok,Akdeniz,500-1000,Ciceksiz,Yok
+Peygamber Cicegi,54,Cok,Karadeniz,1000-1500,Sari,Yok
+Peygamber Cicegi,70,Cok,Karadeniz,1000-1500,Sari,Yok
+Peygamber Cicegi,65,Cok,Karadeniz,1000-1500,Sari,Yok
+Peygamber Cicegi,27,Cok,Karadeniz,1000-1500,Sari,Yok
+Peygamber Cicegi,27,Cok,Karadeniz,1000-1500,Sari,Yok
+Keci Koygocureni,42,Cok,Ege,2500-3000,Ciceksiz,Yok
+Keci Koygocureni,42,Cok,Ege,2500-3000,Ciceksiz,Yok
+Keci Koygocureni,43,Cok,Ege,2500-3000,Ciceksiz,Yok
+Keci Koygocureni,25,Cok,Ege,2500-3000,Ciceksiz,Yok
+Keci Koygocureni,25,Cok,Ege,2500-3000,Ciceksiz,Yok
+Yabani Kirmizi Salata,115,Cok,Dogu Anadolu,2000-2500,Ciceksiz,Var
+Yabani Kirmizi Salata,115,Cok,Dogu Anadolu,2000-2500,Ciceksiz,Var
+Yabani Kirmizi Salata,96,Cok,Dogu Anadolu,2000-2500,Ciceksiz,Var
+Yabani Kirmizi Salata,45,Cok,Dogu Anadolu,2000-2500,Ciceksiz,Var
+Yabani Kirmizi Salata,43,Cok,Dogu Anadolu,2000-2500,Ciceksiz,Var
+Andiz Otu,73,Cok,Karadeniz,1000-1500,Sari,Var
+Andiz Otu,73,Cok,Karadeniz,1000-1500,Sari,Var
+Andiz Otu,72,Cok,Karadeniz,1000-1500,Sari,Var
+Andiz Otu,19,Cok,Karadeniz,1000-1500,Sari,Var
+Andiz Otu,19,Cok,Karadeniz,1000-1500,Sari,Var
+Kaldirik,63,Cok,Akdeniz,0-500,Eflatun,Var
+Kaldirik,47,Cok,Akdeniz,0-500,Eflatun,Var
+Kaldirik,48,Cok,Akdeniz,0-500,Eflatun,Var
+Kaldirik,22,Cok,Akdeniz,0-500,Eflatun,Var
+Kaldirik,22,Cok,Akdeniz,0-500,Eflatun,Var
+Nicar Otu,45,Cok,Dogu Anadolu,1500-2000,Sari,Var
+Nicar Otu,43,Cok,Dogu Anadolu,1500-2000,Sari,Var
+Nicar Otu,43,Cok,Dogu Anadolu,1500-2000,Sari,Var
+Nicar Otu,22,Cok,Dogu Anadolu,1500-2000,Sari,Var
+Nicar Otu,23,Cok,Dogu Anadolu,1500-2000,Sari,Var
+Kara Hardal,120,Tek,Akdeniz,1000-1500,Sari,Yok
+Kara Hardal,121,Tek,Akdeniz,1000-1500,Sari,Yok
+Kara Hardal,120,Tek,Akdeniz,1000-1500,Sari,Yok
+Kara Hardal,65,Tek,Akdeniz,1000-1500,Sari,Yok
+Kara Hardal,50,Tek,Akdeniz,1000-1500,Sari,Yok
+Meryem Ana Dikeni,105,Cok,Marmara,500-1000,Eflatun,Yok
+Meryem Ana Dikeni,103,Cok,Marmara,500-1000,Eflatun,Yok
+Meryem Ana Dikeni,105,Cok,Marmara,500-1000,Eflatun,Yok
+Meryem Ana Dikeni,45,Cok,Marmara,500-1000,Eflatun,Yok
+Meryem Ana Dikeni,43,Cok,Marmara,500-1000,Eflatun,Yok
+Buyuk Venusmercegi,30,Tek,GuneyDogu Anadolu,1500-2000,Eflatun,Var
+Buyuk Venusmercegi,31,Tek,GuneyDogu Anadolu,1500-2000,Eflatun,Var
+Buyuk Venusmercegi,30,Tek,GuneyDogu Anadolu,1500-2000,Eflatun,Var
+Buyuk Venusmercegi,10,Tek,GuneyDogu Anadolu,1500-2000,Eflatun,Var
+Buyuk Venusmercegi,10,Tek,GuneyDogu Anadolu,1500-2000,Eflatun,Var
+Kekik,22,Cok,Ic Anadolu,0-500,Yesil,Var
+Kekik,23,Cok,Ic Anadolu,0-500,Yesil,Var
+Kekik,23,Cok,Ic Anadolu,0-500,Yesil,Var
+Kekik,10,Cok,Ic Anadolu,0-500,Yesil,Var
+Kekik,10,Cok,Ic Anadolu,0-500,Yesil,Var
+Parlak Kara Pazi,72,Tek,Ic Anadolu,500-1000,Eflatun,Yok
+Parlak Kara Pazi,71,Tek,Ic Anadolu,500-1000,Eflatun,Yok
+Parlak Kara Pazi,71,Tek,Ic Anadolu,500-1000,Eflatun,Yok
+Parlak Kara Pazi,35,Tek,Ic Anadolu,500-1000,Eflatun,Yok
+Parlak Kara Pazi,33,Tek,Ic Anadolu,500-1000,Eflatun,Yok
+Yabani Tilki Kuyrugu,95,Tek,Akdeniz,1500-2000,Sari,Yok
+Yabani Tilki Kuyrugu,95,Tek,Akdeniz,1500-2000,Sari,Yok
+Yabani Tilki Kuyrugu,97,Tek,Akdeniz,1500-2000,Sari,Yok
+Yabani Tilki Kuyrugu,12,Tek,Akdeniz,1500-2000,Sari,Yok
+Yabani Tilki Kuyrugu,15,Tek,Akdeniz,1500-2000,Sari,Yok
+At Kuyrugu,56,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+At Kuyrugu,56,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+At Kuyrugu,53,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+At Kuyrugu,37,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+At Kuyrugu,35,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+Dere gulu,45,Cok,Karadeniz,1000-1500,Ciceksiz,Var
+Dere gulu,58,Cok,Karadeniz,1000-1500,Ciceksiz,Var
+Dere gulu,52,Cok,Karadeniz,1000-1500,Ciceksiz,Var
+Dere gulu,37,Cok,Karadeniz,1000-1500,Ciceksiz,Var
+Dere gulu,39,Cok,Karadeniz,1000-1500,Ciceksiz,Var
+Kirkbogum,77,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+Kirkbogum,71,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+Kirkbogum,48,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+Kirkbogum,50,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+Kirkbogum,66,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+Deniz Uzumu,1300,Cok,Akdeniz,0-500,Kirmizi,Yok
+Deniz Uzumu,1350,Cok,Akdeniz,0-500,Kirmizi,Yok
+Deniz Uzumu,1500,Cok,Akdeniz,0-500,Kirmizi,Yok
+Deniz Uzumu,1280,Cok,Akdeniz,0-500,Kirmizi,Yok
+Deniz Uzumu,1420,Cok,Akdeniz,0-500,Kirmizi,Yok
+Ayin Pencesi,27,Cok,Ic Anadolu,1000-1500,Eflatun,Var
+Ayin Pencesi,34,Cok,Ic Anadolu,1000-1500,Eflatun,Var
+Ayin Pencesi,29,Cok,Ic Anadolu,1000-1500,Eflatun,Var
+Ayin Pencesi,37,Cok,Ic Anadolu,1000-1500,Eflatun,Var
+Ayin Pencesi,24,Cok,Ic Anadolu,1000-1500,Eflatun,Var
+Horozibigi,84,Tek,Genel,500-1000,Yesil,Yok
+Horozibigi,47,Tek,Genel,500-1000,Yesil,Yok
+Horozibigi,73,Tek,Genel,500-1000,Yesil,Yok
+Horozibigi,34,Tek,Genel,500-1000,Yesil,Yok
+Horozibigi,55,Tek,Genel,500-1000,Yesil,Yok
+Dis Otu,67,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Dis Otu,56,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Dis Otu,54,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Dis Otu,59,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Dis Otu,70,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Mendi,132,Tek,Genel,0-500,Beyaz,Var
+Mendi,120,Tek,Genel,0-500,Beyaz,Var
+Mendi,135,Tek,Genel,0-500,Beyaz,Var
+Mendi,147,Tek,Genel,0-500,Beyaz,Var
+Mendi,112,Tek,Genel,0-500,Beyaz,Var
+Astransya,90,Cok,Akdeniz,500-1000,Mor,Yok
+Astransya,67,Cok,Akdeniz,500-1000,Mor,Yok
+Astransya,74,Cok,Akdeniz,500-1000,Mor,Yok
+Astransya,82,Cok,Akdeniz,500-1000,Mor,Yok
+Astransya,51,Cok,Akdeniz,500-1000,Mor,Yok
+Tarak Otu,74,Cok,GuneyDogu Anadolu,500-1000,Beyaz,Yok
+Tarak Otu,64,Cok,GuneyDogu Anadolu,500-1000,Beyaz,Yok
+Tarak Otu,41,Cok,GuneyDogu Anadolu,500-1000,Beyaz,Yok
+Tarak Otu,63,Cok,GuneyDogu Anadolu,500-1000,Beyaz,Yok
+Tarak Otu,39,Cok,GuneyDogu Anadolu,500-1000,Beyaz,Yok
+Hirhindilik,44,Cok,Karadeniz,500-1000,Pembe,Yok
+Hirhindilik,52,Cok,Karadeniz,500-1000,Pembe,Yok
+Hirhindilik,59,Cok,Karadeniz,500-1000,Pembe,Yok
+Hirhindilik,50,Cok,Karadeniz,500-1000,Pembe,Yok
+Hirhindilik,58,Cok,Karadeniz,500-1000,Pembe,Yok
+Boga Dikeni,62,Tek,GuneyDogu Anadolu,500-1000,Yesil,Var
+Boga Dikeni,68,Tek,GuneyDogu Anadolu,500-1000,Yesil,Var
+Boga Dikeni,41,Tek,GuneyDogu Anadolu,500-1000,Yesil,Var
+Boga Dikeni,49,Tek,GuneyDogu Anadolu,500-1000,Yesil,Var
+Boga Dikeni,42,Tek,GuneyDogu Anadolu,500-1000,Yesil,Var
+Tavsancil Otu,52,Cok,Karadeniz,500-1000,Beyaz,Yok
+Tavsancil Otu,70,Cok,Karadeniz,500-1000,Beyaz,Yok
+Tavsancil Otu,43,Cok,Karadeniz,500-1000,Beyaz,Yok
+Tavsancil Otu,80,Cok,Karadeniz,500-1000,Beyaz,Yok
+Tavsancil Otu,25,Cok,Karadeniz,500-1000,Beyaz,Yok
+Anason,53,Cok,Genel,1000-1500,Pembe,Yok
+Anason,30,Cok,Genel,1000-1500,Pembe,Yok
+Anason,33,Cok,Genel,1000-1500,Pembe,Yok
+Anason,33,Cok,Genel,1000-1500,Pembe,Yok
+Anason,26,Cok,Genel,1000-1500,Pembe,Yok
+Sutlu Sarmasik,220,Cok,Dogu Anadolu,1500-2000,Pembe,Yok
+Sutlu Sarmasik,205,Cok,Dogu Anadolu,1500-2000,Pembe,Yok
+Sutlu Sarmasik,180,Cok,Dogu Anadolu,1500-2000,Pembe,Yok
+Sutlu Sarmasik,261,Cok,Dogu Anadolu,1500-2000,Pembe,Yok
+Sutlu Sarmasik,110,Cok,Dogu Anadolu,1500-2000,Pembe,Yok
+Dikenli okuzdili,36,Cok,Ic Anadolu,0-500,Ciceksiz,Var
+Dikenli okuzdili,59,Cok,Ic Anadolu,0-500,Ciceksiz,Var
+Dikenli okuzdili,23,Cok,Ic Anadolu,0-500,Ciceksiz,Var
+Dikenli okuzdili,41,Cok,Ic Anadolu,0-500,Ciceksiz,Var
+Dikenli okuzdili,22,Cok,Ic Anadolu,0-500,Ciceksiz,Var
+Karakok,5,Tek,GuneyDogu Anadolu,500-1000,Sari,Var
+Karakok,5,Tek,GuneyDogu Anadolu,500-1000,Sari,Var
+Karakok,5,Tek,GuneyDogu Anadolu,500-1000,Sari,Var
+Karakok,4,Tek,GuneyDogu Anadolu,500-1000,Sari,Var
+Karakok,4,Tek,GuneyDogu Anadolu,500-1000,Sari,Var
+Dag Karanfili,37,Tek,Dogu Anadolu,1500-2000,Eflatun,Yok
+Dag Karanfili,43,Tek,Dogu Anadolu,1500-2000,Eflatun,Yok
+Dag Karanfili,59,Tek,Dogu Anadolu,1500-2000,Eflatun,Yok
+Dag Karanfili,15,Tek,Dogu Anadolu,1500-2000,Eflatun,Yok
+Dag Karanfili,10,Tek,Dogu Anadolu,1500-2000,Eflatun,Yok
+Koygocuren,14,Tek,Genel,0-500,Yesil,Yok
+Koygocuren,13,Tek,Genel,0-500,Yesil,Yok
+Koygocuren,9,Tek,Genel,0-500,Yesil,Yok
+Koygocuren,6,Tek,Genel,0-500,Yesil,Yok
+Koygocuren,15,Tek,Genel,0-500,Yesil,Yok
+Yayla Cicegi,28,Cok,GuneyDogu Anadolu,500-1000,Turuncu,Yok
+Yayla Cicegi,32,Cok,GuneyDogu Anadolu,500-1001,Turuncu,Yok
+Yayla Cicegi,30,Cok,GuneyDogu Anadolu,500-1002,Turuncu,Yok
+Yayla Cicegi,24,Cok,GuneyDogu Anadolu,500-1003,Turuncu,Yok
+Yayla Cicegi,26,Cok,GuneyDogu Anadolu,500-1004,Turuncu,Yok
+Aci Marul,40,Tek,Ege,0-500,Sari,Var
+Aci Marul,128,Tek,Ege,0-500,Sari,Var
+Aci Marul,107,Tek,Ege,0-500,Sari,Var
+Aci Marul,125,Tek,Ege,0-500,Sari,Var
+Aci Marul,112,Tek,Ege,0-500,Sari,Var
+Sigirdili,26,Cok,Karadeniz,1500-2000,Sari,Yok
+Sigirdili,28,Cok,Karadeniz,1500-2000,Sari,Yok
+Sigirdili,29,Cok,Karadeniz,1500-2000,Sari,Yok
+Sigirdili,28,Cok,Karadeniz,1500-2000,Sari,Yok
+Sigirdili,24,Cok,Karadeniz,1500-2000,Sari,Yok
+Engerek Otu,100,Cok,Akdeniz,0-500,Kirmizi,Yok
+Engerek Otu,53,Cok,Akdeniz,0-500,Kirmizi,Yok
+Engerek Otu,28,Cok,Akdeniz,0-500,Kirmizi,Yok
+Engerek Otu,85,Cok,Akdeniz,0-500,Kirmizi,Yok
+Engerek Otu,88,Cok,Akdeniz,0-500,Kirmizi,Yok
+Moltkia,74,Cok,Ic Anadolu,500-1000,Mavi,Yok
+Moltkia,63,Cok,Ic Anadolu,500-1000,Mavi,Yok
+Moltkia,61,Cok,Ic Anadolu,500-1000,Mavi,Yok
+Moltkia,69,Cok,Ic Anadolu,500-1000,Mavi,Yok
+Moltkia,59,Cok,Ic Anadolu,500-1000,Mavi,Yok
+Boncuk Otu,11,Tek,GuneyDogu Anadolu,1000-1500,Mavi,Yok
+Boncuk Otu,25,Tek,GuneyDogu Anadolu,1000-1500,Mavi,Yok
+Boncuk Otu,34,Tek,GuneyDogu Anadolu,1000-1500,Mavi,Yok
+Boncuk Otu,9,Tek,GuneyDogu Anadolu,1000-1500,Mavi,Yok
+Boncuk Otu,34,Tek,GuneyDogu Anadolu,1000-1500,Mavi,Yok
+Papaz Otu,10,Tek,Ic Anadolu,500-1000,Mor,Var
+Papaz Otu,27,Tek,Ic Anadolu,500-1000,Mor,Var
+Papaz Otu,24,Tek,Ic Anadolu,500-1000,Mor,Var
+Papaz Otu,34,Tek,Ic Anadolu,500-1000,Mor,Var
+Papaz Otu,40,Tek,Ic Anadolu,500-1000,Mor,Var
+Boru Cicegi,46,Cok,Dogu Anadolu,2000-2500,Eflatun,Yok
+Boru Cicegi,49,Cok,Dogu Anadolu,2000-2500,Eflatun,Yok
+Boru Cicegi,60,Cok,Dogu Anadolu,2000-2500,Eflatun,Yok
+Boru Cicegi,74,Cok,Dogu Anadolu,2000-2500,Eflatun,Yok
+Boru Cicegi,77,Cok,Dogu Anadolu,2000-2500,Eflatun,Yok
+Tascantasi,13,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Tascantasi,10,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Tascantasi,15,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Tascantasi,12,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Tascantasi,15,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Kuduz Otu,18,Cok,Genel,500-1000,Beyaz,Yok
+Kuduz Otu,22,Cok,Genel,500-1000,Beyaz,Yok
+Kuduz Otu,26,Cok,Genel,500-1000,Beyaz,Yok
+Kuduz Otu,24,Cok,Genel,500-1000,Beyaz,Yok
+Kuduz Otu,29,Cok,Genel,500-1000,Beyaz,Yok
+Kaysak,17,Tek,Genel,1000-1500,Sari,Yok
+Kaysak,28,Tek,Genel,1000-1500,Sari,Yok
+Kaysak,24,Tek,Genel,1000-1500,Sari,Yok
+Kaysak,21,Tek,Genel,1000-1500,Sari,Yok
+Kaysak,29,Tek,Genel,1000-1500,Sari,Yok
+Turk Roketi,84,Cok,Genel,500-1500,Sari,Yok
+Turk Roketi,76,Cok,Genel,500-1500,Sari,Yok
+Turk Roketi,68,Cok,Genel,500-1500,Sari,Yok
+Turk Roketi,81,Cok,Genel,500-1500,Sari,Yok
+Turk Roketi,60,Cok,Genel,500-1500,Sari,Yok
+Disli Kok,55,Cok,Akdeniz,500-1500,Siyah,Var
+Disli Kok,33,Cok,Akdeniz,500-1500,Siyah,Var
+Disli Kok,60,Cok,Akdeniz,500-1500,Siyah,Var
+Disli Kok,41,Cok,Akdeniz,500-1500,Siyah,Var
+Disli Kok,47,Cok,Akdeniz,500-1500,Siyah,Var
+Coban Cantasi,60,Tek,Dogu Anadolu,1000-1500,Beyaz,Var
+Coban Cantasi,55,Tek,Dogu Anadolu,1000-1500,Beyaz,Var
+Coban Cantasi,57,Tek,Dogu Anadolu,1000-1500,Beyaz,Var
+Coban Cantasi,52,Tek,Dogu Anadolu,1000-1500,Beyaz,Var
+Coban Cantasi,59,Tek,Dogu Anadolu,1000-1500,Beyaz,Var
+Kaplan Pencesi,20,Tek,Genel,500-1000,Sari,Yok
+Kaplan Pencesi,30,Tek,Genel,500-1000,Sari,Yok
+Kaplan Pencesi,21,Tek,Genel,500-1000,Sari,Yok
+Kaplan Pencesi,25,Tek,Genel,500-1000,Sari,Yok
+Kaplan Pencesi,26,Tek,Genel,500-1000,Sari,Yok
+Civit Otu,41,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Civit Otu,55,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Civit Otu,55,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Civit Otu,49,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Civit Otu,63,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Can Cicegi,59,Cok,Karadeniz,2000-2500,Mor,Var
+Can Cicegi,60,Cok,Karadeniz,2000-2500,Mor,Var
+Can Cicegi,47,Cok,Karadeniz,2000-2500,Mor,Var
+Can Cicegi,58,Cok,Karadeniz,2000-2500,Mor,Var
+Can Cicegi,60,Cok,Karadeniz,2000-2500,Mor,Var
+Kapari,122,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kapari,130,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kapari,102,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kapari,76,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kapari,147,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Murver,61,Cok,Karadeniz,500-1000,Beyaz,Yok
+Murver,87,Cok,Karadeniz,500-1000,Beyaz,Yok
+Murver,136,Cok,Karadeniz,500-1000,Beyaz,Yok
+Murver,194,Cok,Karadeniz,500-1000,Beyaz,Yok
+Murver,159,Cok,Karadeniz,500-1000,Beyaz,Yok
+Karamuk,36,Tek,Marmara,0-500,Pembe,Yok
+Karamuk,40,Tek,Marmara,0-500,Pembe,Yok
+Karamuk,35,Tek,Marmara,0-500,Pembe,Yok
+Karamuk,47,Tek,Marmara,0-500,Pembe,Yok
+Karamuk,43,Tek,Marmara,0-500,Pembe,Yok
+Kum Otu,17,Tek,Genel,500-1000,Beyaz,Yok
+Kum Otu,23,Tek,Genel,500-1000,Beyaz,Yok
+Kum Otu,13,Tek,Genel,500-1000,Beyaz,Yok
+Kum Otu,28,Tek,Genel,500-1000,Beyaz,Yok
+Kum Otu,30,Tek,Genel,500-1000,Beyaz,Yok
+Karagan,132,Cok,Akdeniz,500-1000,Eflatun,Var
+Inek Otu,30,Tek,Akdeniz,1500-2000,Beyaz,Yok
+Peygamber Cicegi,27,Cok,Karadeniz,1000-1500,Sari,Yok
+Keci Koygocureni,42,Cok,Ege,2500-3000,Ciceksiz,Yok
+Kaysak,29,Tek,Genel,1000-1500,Sari,Yok
+Turk Roketi,84,Cok,Genel,500-1500,Sari,Yok
+Disli Kok,47,Cok,Akdeniz,500-1500,Siyah,Var
+Coban Cantasi,60,Tek,Dogu Anadolu,1000-1500,Beyaz,Var
+Kaplan Pencesi,26,Tek,Genel,500-1000,Sari,Yok
+Civit Otu,41,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Can Cicegi,60,Cok,Karadeniz,2000-2500,Mor,Var
+Kapari,122,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kapari,147,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Murver,61,Cok,Karadeniz,500-1000,Beyaz,Yok
+Karamuk,43,Tek,Marmara,0-500,Pembe,Yok
+Kum Otu,17,Tek,Genel,500-1000,Beyaz,Yok
+Boru Cicegi,77,Cok,Dogu Anadolu,2000-2500,Eflatun,Yok
+Tascantasi,13,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Aci Marul,107,Tek,Ege,0-500,Sari,Var
+Aci Marul,125,Tek,Ege,0-500,Sari,Var
+Aci Marul,112,Tek,Ege,0-500,Sari,Var
+Sigirdili,26,Cok,Karadeniz,1500-2000,Sari,Yok
+Sigirdili,28,Cok,Karadeniz,1500-2000,Sari,Yok
+Koygocuren,6,Tek,Genel,0-500,Yesil,Yok
+Koygocuren,15,Tek,Genel,0-500,Yesil,Yok
+Yayla Cicegi,28,Cok,GuneyDogu Anadolu,500-1000,Turuncu,Yok
+Yayla Cicegi,32,Cok,GuneyDogu Anadolu,500-1001,Turuncu,Yok
+Karakok,4,Tek,GuneyDogu Anadolu,500-1000,Sari,Var
+Karakok,4,Tek,GuneyDogu Anadolu,500-1000,Sari,Var
+Dag Karanfili,37,Tek,Dogu Anadolu,1500-2000,Eflatun,Yok
+Dag Karanfili,43,Tek,Dogu Anadolu,1500-2000,Eflatun,Yok
+Sutlu Sarmasik,261,Cok,Dogu Anadolu,1500-2000,Pembe,Yok
+Sutlu Sarmasik,110,Cok,Dogu Anadolu,1500-2000,Pembe,Yok
+Dikenli okuzdili,36,Cok,Ic Anadolu,0-500,Ciceksiz,Var
+Dikenli okuzdili,59,Cok,Ic Anadolu,0-500,Ciceksiz,Var
+Tavsancil Otu,80,Cok,Karadeniz,500-1000,Beyaz,Yok
+Tavsancil Otu,25,Cok,Karadeniz,500-1000,Beyaz,Yok
+Anason,53,Cok,Genel,1000-1500,Pembe,Yok
+Anason,30,Cok,Genel,1000-1500,Pembe,Yok
+Hirhindilik,50,Cok,Karadeniz,500-1000,Pembe,Yok
+Hirhindilik,58,Cok,Karadeniz,500-1000,Pembe,Yok
+Boga Dikeni,62,Tek,GuneyDogu Anadolu,500-1000,Yesil,Var
+Boga Dikeni,68,Tek,GuneyDogu Anadolu,500-1000,Yesil,Var
+Astransya,82,Cok,Akdeniz,500-1000,Mor,Yok
+Astransya,51,Cok,Akdeniz,500-1000,Mor,Yok
+Tarak Otu,74,Cok,GuneyDogu Anadolu,500-1000,Beyaz,Yok
+Tarak Otu,64,Cok,GuneyDogu Anadolu,500-1000,Beyaz,Yok
+Dis Otu,59,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Dis Otu,70,Tek,Dogu Anadolu,500-1000,Yesil,Yok
+Mendi,132,Tek,Genel,0-500,Beyaz,Var
+Mendi,120,Tek,Genel,0-500,Beyaz,Var
+Ayin Pencesi,37,Cok,Ic Anadolu,1000-1500,Eflatun,Var
+Ayin Pencesi,24,Cok,Ic Anadolu,1000-1500,Eflatun,Var
+Horozibigi,84,Tek,Genel,500-1000,Yesil,Yok
+Horozibigi,47,Tek,Genel,500-1000,Yesil,Yok
+Kirkbogum,50,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+Kirkbogum,66,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+Deniz Uzumu,1300,Cok,Akdeniz,0-500,Kirmizi,Yok
+Deniz Uzumu,1350,Cok,Akdeniz,0-500,Kirmizi,Yok
+At Kuyrugu,37,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+At Kuyrugu,35,Cok,Karadeniz,2000-2500,Kahverengi,Yok
+Dere gulu,45,Cok,Karadeniz,1000-1500,Ciceksiz,Var
+Dere gulu,58,Cok,Karadeniz,1000-1500,Ciceksiz,Var
+Parlak Kara Pazi,35,Tek,Ic Anadolu,500-1000,Eflatun,Yok
+Parlak Kara Pazi,33,Tek,Ic Anadolu,500-1000,Eflatun,Yok
+Yabani Tilki Kuyrugu,95,Tek,Akdeniz,1500-2000,Sari,Yok
+Yabani Tilki Kuyrugu,95,Tek,Akdeniz,1500-2000,Sari,Yok
+Buyuk Venusmercegi,10,Tek,GuneyDogu Anadolu,1500-2000,Eflatun,Var
+Buyuk Venusmercegi,10,Tek,GuneyDogu Anadolu,1500-2000,Eflatun,Var
+Kekik,22,Cok,Ic Anadolu,0-500,Yesil,Var
+Kekik,23,Cok,Ic Anadolu,0-500,Yesil,Var
+Kara Hardal,65,Tek,Akdeniz,1000-1500,Sari,Yok
+Kara Hardal,50,Tek,Akdeniz,1000-1500,Sari,Yok
+Meryem Ana Dikeni,105,Cok,Marmara,500-1000,Eflatun,Yok
+Meryem Ana Dikeni,103,Cok,Marmara,500-1000,Eflatun,Yok
+Kaldirik,22,Cok,Akdeniz,0-500,Eflatun,Var
+Kaldirik,22,Cok,Akdeniz,0-500,Eflatun,Var
+Nicar Otu,45,Cok,Dogu Anadolu,1500-2000,Sari,Var
+Nicar Otu,43,Cok,Dogu Anadolu,1500-2000,Sari,Var
+Yabani Kirmizi Salata,45,Cok,Dogu Anadolu,2000-2500,Ciceksiz,Var
+Yabani Kirmizi Salata,43,Cok,Dogu Anadolu,2000-2500,Ciceksiz,Var
+Andiz Otu,73,Cok,Karadeniz,1000-1500,Sari,Var
+Andiz Otu,73,Cok,Karadeniz,1000-1500,Sari,Var
+Peygamber Cicegi,27,Cok,Karadeniz,1000-1500,Sari,Yok
+Peygamber Cicegi,27,Cok,Karadeniz,1000-1500,Sari,Yok
+Keci Koygocureni,42,Cok,Ege,2500-3000,Ciceksiz,Yok
+Keci Koygocureni,42,Cok,Ege,2500-3000,Ciceksiz,Yok
+Keci Koygocureni,43,Cok,Ege,2500-3000,Ciceksiz,Yok
+Coven,12,Tek,Dogu Anadolu,2000-2500,Beyaz,Var
+Coven,12,Tek,Dogu Anadolu,2000-2500,Beyaz,Var
+Erkek Egrelti Otu,103,Cok,Akdeniz,500-1000,Ciceksiz,Yok
+Erkek Egrelti Otu,97,Cok,Akdeniz,500-1000,Ciceksiz,Yok
+Kecisakali,101,Cok,Ic Anadolu,1000-1500,Sari,Var
+Kecisakali,100,Cok,Ic Anadolu,1000-1500,Sari,Var
+Uyuz Otu,86,Cok,Dogu Anadolu,1000-1500,Pembe,Yok
+Uyuz Otu,87,Cok,Dogu Anadolu,1000-1500,Pembe,Yok
+Alli Gelin,17,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Alli Gelin,22,Tek,Dogu Anadolu,1500-2000,Pembe,Yok
+Anzer Cayi,12,Cok,Karadeniz,2000-2500,Mor,Yok
+Anzer Cayi,13,Cok,Karadeniz,2000-2500,Mor,Yok
+Yumakli Ot,8,Tek,Akdeniz,1000-1500,Ciceksiz,Yok
+Yumakli Ot,5,Tek,Akdeniz,1000-1500,Ciceksiz,Yok
+Coban Dosegi,68,Cok,Dogu Anadolu,1500-2000,Eflatun,Yok
+Coban Dosegi,67,Cok,Dogu Anadolu,1500-2000,Eflatun,Yok
+Kanarya otu,21,Cok,Dogu Anadolu,1500-2000,Sari,Yok
+Kanarya otu,22,Cok,Dogu Anadolu,1500-2000,Sari,Yok
+Emzik Otu,35,Cok,Dogu Anadolu,2000-2500,Kirmizi,Yok
+Emzik Otu,35,Cok,Dogu Anadolu,2000-2500,Kirmizi,Yok
+Dag Kopekdili,27,Cok,Akdeniz,2000-2500,Mor,Yok
+Dag Kopekdili,15,Cok,Akdeniz,2000-2500,Mor,Yok
+Kardelen,15,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Kardelen,17,Cok,Ic Anadolu,500-1000,Beyaz,Yok
+Hanimeli Otu,125,Cok,Akdeniz,1500-2000,Sari,Var
+Hanimeli Otu,79,Cok,Akdeniz,1500-2000,Sari,Var
+Cuvan,45,Cok,Ic Anadolu,500-1000,Ciceksiz,Var
+Cuvan,50,Cok,Ic Anadolu,500-1000,Ciceksiz,Var
+Inek Otu,30,Tek,Akdeniz,1500-2000,Beyaz,Yok
+Inek Otu,32,Tek,Akdeniz,1500-2000,Beyaz,Yok
+Sabun Otu,33,Tek,Genel,1000-1500,Pembe,Var
+Sabun Otu,29,Tek,Genel,1000-1500,Pembe,Var
+Sabun Otu,47,Tek,Genel,1000-1500,Pembe,Var
+Sabun Otu,32,Tek,Genel,1000-1500,Pembe,Var
+Sabun Otu,67,Tek,Genel,1000-1500,Pembe,Var
+Sabun Otu,45,Tek,Genel,1000-1500,Pembe,Var
+Gicime,26,Tek,Dogu Anadolu,500-1000,Sari,Var
+Gicime,28,Tek,Dogu Anadolu,500-1000,Sari,Var
+Gicime,29,Tek,Dogu Anadolu,500-1000,Sari,Var
+Gicime,30,Tek,Dogu Anadolu,500-1000,Sari,Var
+Gicime,23,Tek,Dogu Anadolu,500-1000,Sari,Var
+Gicime,30,Tek,Dogu Anadolu,500-1000,Sari,Var
+Salba,80,Cok,GuneyDogu Anadolu,1000-1500,Eflatun,Yok
+Salba,51,Cok,GuneyDogu Anadolu,1000-1500,Eflatun,Yok
+Salba,31,Cok,GuneyDogu Anadolu,1000-1500,Eflatun,Yok
+Salba,106,Cok,GuneyDogu Anadolu,1000-1500,Eflatun,Yok
+Salba,64,Cok,GuneyDogu Anadolu,1000-1500,Eflatun,Yok
+Salba,90,Cok,GuneyDogu Anadolu,1000-1500,Eflatun,Yok
+Ada Cayi,45,Cok,Genel,500-1000,Beyaz,Yok
+Ada Cayi,46,Cok,Genel,500-1000,Beyaz,Yok
+Ada Cayi,42,Cok,Genel,500-1000,Beyaz,Yok
+Ada Cayi,47,Cok,Genel,500-1000,Beyaz,Yok
+Ada Cayi,48,Cok,Genel,500-1000,Beyaz,Yok
+Ada Cayi,44,Cok,Genel,500-1000,Beyaz,Yok
